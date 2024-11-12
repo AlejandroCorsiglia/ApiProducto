@@ -1,0 +1,126 @@
+F:\PROGRAMAS LAS NIEVES\VISUAL STUDIO\proyectos\Api\Negocio\bin\Debug\Negocio.dll
+F:\PROGRAMAS LAS NIEVES\VISUAL STUDIO\proyectos\Api\Negocio\bin\Debug\Negocio.pdb
+F:\PROGRAMAS LAS NIEVES\VISUAL STUDIO\proyectos\Api\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+F:\PROGRAMAS LAS NIEVES\VISUAL STUDIO\proyectos\Api\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+F:\PROGRAMAS LAS NIEVES\VISUAL STUDIO\proyectos\Api\Negocio\obj\Debug\Negocio.dll
+F:\PROGRAMAS LAS NIEVES\VISUAL STUDIO\proyectos\Api\Negocio\obj\Debug\Negocio.pdb
+F:\PROGRAMAS LAS NIEVES\VISUAL STUDIO\proyectos\Api\Negocio\bin\Debug\Negocio.dll.config
+F:\PROGRAMAS LAS NIEVES\VISUAL STUDIO\proyectos\Api\Negocio\bin\Debug\BouncyCastle.Cryptography.dll
+F:\PROGRAMAS LAS NIEVES\VISUAL STUDIO\proyectos\Api\Negocio\bin\Debug\Google.Protobuf.dll
+F:\PROGRAMAS LAS NIEVES\VISUAL STUDIO\proyectos\Api\Negocio\bin\Debug\K4os.Compression.LZ4.dll
+F:\PROGRAMAS LAS NIEVES\VISUAL STUDIO\proyectos\Api\Negocio\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\PROGRAMAS LAS NIEVES\VISUAL STUDIO\proyectos\Api\Negocio\bin\Debug\K4os.Hash.xxHash.dll
+F:\PROGRAMAS LAS NIEVES\VISUAL STUDIO\proyectos\Api\Negocio\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\PROGRAMAS LAS NIEVES\VISUAL STUDIO\proyectos\Api\Negocio\bin\Debug\MySql.Data.dll
+F:\PROGRAMAS LAS NIEVES\VISUAL STUDIO\proyectos\Api\Negocio\bin\Debug\System.Buffers.dll
+F:\PROGRAMAS LAS NIEVES\VISUAL STUDIO\proyectos\Api\Negocio\bin\Debug\System.Configuration.ConfigurationManager.dll
+F:\PROGRAMAS LAS NIEVES\VISUAL STUDIO\proyectos\Api\Negocio\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+F:\PROGRAMAS LAS NIEVES\VISUAL STUDIO\proyectos\Api\Negocio\bin\Debug\System.IO.Pipelines.dll
+F:\PROGRAMAS LAS NIEVES\VISUAL STUDIO\proyectos\Api\Negocio\bin\Debug\System.Memory.dll
+F:\PROGRAMAS LAS NIEVES\VISUAL STUDIO\proyectos\Api\Negocio\bin\Debug\System.Numerics.Vectors.dll
+F:\PROGRAMAS LAS NIEVES\VISUAL STUDIO\proyectos\Api\Negocio\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\PROGRAMAS LAS NIEVES\VISUAL STUDIO\proyectos\Api\Negocio\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\PROGRAMAS LAS NIEVES\VISUAL STUDIO\proyectos\Api\Negocio\bin\Debug\ZstdSharp.dll
+F:\PROGRAMAS LAS NIEVES\VISUAL STUDIO\proyectos\Api\Negocio\bin\Debug\BouncyCastle.Cryptography.xml
+F:\PROGRAMAS LAS NIEVES\VISUAL STUDIO\proyectos\Api\Negocio\bin\Debug\Google.Protobuf.pdb
+F:\PROGRAMAS LAS NIEVES\VISUAL STUDIO\proyectos\Api\Negocio\bin\Debug\Google.Protobuf.xml
+F:\PROGRAMAS LAS NIEVES\VISUAL STUDIO\proyectos\Api\Negocio\bin\Debug\K4os.Compression.LZ4.xml
+F:\PROGRAMAS LAS NIEVES\VISUAL STUDIO\proyectos\Api\Negocio\bin\Debug\K4os.Compression.LZ4.Streams.xml
+F:\PROGRAMAS LAS NIEVES\VISUAL STUDIO\proyectos\Api\Negocio\bin\Debug\K4os.Hash.xxHash.xml
+F:\PROGRAMAS LAS NIEVES\VISUAL STUDIO\proyectos\Api\Negocio\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\PROGRAMAS LAS NIEVES\VISUAL STUDIO\proyectos\Api\Negocio\bin\Debug\MySql.Data.xml
+F:\PROGRAMAS LAS NIEVES\VISUAL STUDIO\proyectos\Api\Negocio\bin\Debug\System.Buffers.xml
+F:\PROGRAMAS LAS NIEVES\VISUAL STUDIO\proyectos\Api\Negocio\bin\Debug\System.Configuration.ConfigurationManager.xml
+F:\PROGRAMAS LAS NIEVES\VISUAL STUDIO\proyectos\Api\Negocio\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+F:\PROGRAMAS LAS NIEVES\VISUAL STUDIO\proyectos\Api\Negocio\bin\Debug\System.IO.Pipelines.xml
+F:\PROGRAMAS LAS NIEVES\VISUAL STUDIO\proyectos\Api\Negocio\bin\Debug\System.Memory.xml
+F:\PROGRAMAS LAS NIEVES\VISUAL STUDIO\proyectos\Api\Negocio\bin\Debug\System.Numerics.Vectors.xml
+F:\PROGRAMAS LAS NIEVES\VISUAL STUDIO\proyectos\Api\Negocio\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\PROGRAMAS LAS NIEVES\VISUAL STUDIO\proyectos\Api\Negocio\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\PROGRAMAS LAS NIEVES\VISUAL STUDIO\proyectos\Api\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+F:\PROGRAMAS LAS NIEVES\VISUAL STUDIO\proyectos\Api\Negocio\bin\Debug\Dapper.dll
+F:\PROGRAMAS LAS NIEVES\VISUAL STUDIO\proyectos\Api\Negocio\bin\Debug\Dapper.xml
+D:\Api\Negocio\bin\Debug\Negocio.dll.config
+D:\Api\Negocio\bin\Debug\Negocio.dll
+D:\Api\Negocio\bin\Debug\Negocio.pdb
+D:\Api\Negocio\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Api\Negocio\bin\Debug\Dapper.dll
+D:\Api\Negocio\bin\Debug\Google.Protobuf.dll
+D:\Api\Negocio\bin\Debug\K4os.Compression.LZ4.dll
+D:\Api\Negocio\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Api\Negocio\bin\Debug\K4os.Hash.xxHash.dll
+D:\Api\Negocio\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Api\Negocio\bin\Debug\MySql.Data.dll
+D:\Api\Negocio\bin\Debug\System.Buffers.dll
+D:\Api\Negocio\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Api\Negocio\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Api\Negocio\bin\Debug\System.IO.Pipelines.dll
+D:\Api\Negocio\bin\Debug\System.Memory.dll
+D:\Api\Negocio\bin\Debug\System.Numerics.Vectors.dll
+D:\Api\Negocio\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Api\Negocio\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Api\Negocio\bin\Debug\ZstdSharp.dll
+D:\Api\Negocio\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Api\Negocio\bin\Debug\Dapper.xml
+D:\Api\Negocio\bin\Debug\Google.Protobuf.pdb
+D:\Api\Negocio\bin\Debug\Google.Protobuf.xml
+D:\Api\Negocio\bin\Debug\K4os.Compression.LZ4.xml
+D:\Api\Negocio\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Api\Negocio\bin\Debug\K4os.Hash.xxHash.xml
+D:\Api\Negocio\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Api\Negocio\bin\Debug\MySql.Data.xml
+D:\Api\Negocio\bin\Debug\System.Buffers.xml
+D:\Api\Negocio\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Api\Negocio\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Api\Negocio\bin\Debug\System.IO.Pipelines.xml
+D:\Api\Negocio\bin\Debug\System.Memory.xml
+D:\Api\Negocio\bin\Debug\System.Numerics.Vectors.xml
+D:\Api\Negocio\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Api\Negocio\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Api\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+D:\Api\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+D:\Api\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+D:\Api\Negocio\obj\Debug\Negocio.dll
+D:\Api\Negocio\obj\Debug\Negocio.pdb
+C:\Users\LN\Desktop\api\ApiProducto\Negocio\bin\Debug\Negocio.dll.config
+C:\Users\LN\Desktop\api\ApiProducto\Negocio\bin\Debug\Negocio.dll
+C:\Users\LN\Desktop\api\ApiProducto\Negocio\bin\Debug\Negocio.pdb
+C:\Users\LN\Desktop\api\ApiProducto\Negocio\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\LN\Desktop\api\ApiProducto\Negocio\bin\Debug\Dapper.dll
+C:\Users\LN\Desktop\api\ApiProducto\Negocio\bin\Debug\Google.Protobuf.dll
+C:\Users\LN\Desktop\api\ApiProducto\Negocio\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\LN\Desktop\api\ApiProducto\Negocio\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\LN\Desktop\api\ApiProducto\Negocio\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\LN\Desktop\api\ApiProducto\Negocio\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\LN\Desktop\api\ApiProducto\Negocio\bin\Debug\MySql.Data.dll
+C:\Users\LN\Desktop\api\ApiProducto\Negocio\bin\Debug\System.Buffers.dll
+C:\Users\LN\Desktop\api\ApiProducto\Negocio\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\LN\Desktop\api\ApiProducto\Negocio\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\LN\Desktop\api\ApiProducto\Negocio\bin\Debug\System.IO.Pipelines.dll
+C:\Users\LN\Desktop\api\ApiProducto\Negocio\bin\Debug\System.Memory.dll
+C:\Users\LN\Desktop\api\ApiProducto\Negocio\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\LN\Desktop\api\ApiProducto\Negocio\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\LN\Desktop\api\ApiProducto\Negocio\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\LN\Desktop\api\ApiProducto\Negocio\bin\Debug\ZstdSharp.dll
+C:\Users\LN\Desktop\api\ApiProducto\Negocio\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\LN\Desktop\api\ApiProducto\Negocio\bin\Debug\Dapper.xml
+C:\Users\LN\Desktop\api\ApiProducto\Negocio\bin\Debug\Google.Protobuf.pdb
+C:\Users\LN\Desktop\api\ApiProducto\Negocio\bin\Debug\Google.Protobuf.xml
+C:\Users\LN\Desktop\api\ApiProducto\Negocio\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\LN\Desktop\api\ApiProducto\Negocio\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\LN\Desktop\api\ApiProducto\Negocio\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\LN\Desktop\api\ApiProducto\Negocio\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\LN\Desktop\api\ApiProducto\Negocio\bin\Debug\MySql.Data.xml
+C:\Users\LN\Desktop\api\ApiProducto\Negocio\bin\Debug\System.Buffers.xml
+C:\Users\LN\Desktop\api\ApiProducto\Negocio\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\LN\Desktop\api\ApiProducto\Negocio\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\LN\Desktop\api\ApiProducto\Negocio\bin\Debug\System.IO.Pipelines.xml
+C:\Users\LN\Desktop\api\ApiProducto\Negocio\bin\Debug\System.Memory.xml
+C:\Users\LN\Desktop\api\ApiProducto\Negocio\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\LN\Desktop\api\ApiProducto\Negocio\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\LN\Desktop\api\ApiProducto\Negocio\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\LN\Desktop\api\ApiProducto\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\LN\Desktop\api\ApiProducto\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\LN\Desktop\api\ApiProducto\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\LN\Desktop\api\ApiProducto\Negocio\obj\Debug\Negocio.dll
+C:\Users\LN\Desktop\api\ApiProducto\Negocio\obj\Debug\Negocio.pdb

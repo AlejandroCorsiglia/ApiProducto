@@ -1,0 +1,192 @@
+F:\PROGRAMAS LAS NIEVES\VISUAL STUDIO\proyectos\API\API\bin\Debug\net7.0\appsettings.Development.json
+F:\PROGRAMAS LAS NIEVES\VISUAL STUDIO\proyectos\API\API\bin\Debug\net7.0\appsettings.json
+F:\PROGRAMAS LAS NIEVES\VISUAL STUDIO\proyectos\API\API\bin\Debug\net7.0\API.exe
+F:\PROGRAMAS LAS NIEVES\VISUAL STUDIO\proyectos\API\API\bin\Debug\net7.0\API.deps.json
+F:\PROGRAMAS LAS NIEVES\VISUAL STUDIO\proyectos\API\API\bin\Debug\net7.0\API.runtimeconfig.json
+F:\PROGRAMAS LAS NIEVES\VISUAL STUDIO\proyectos\API\API\bin\Debug\net7.0\API.dll
+F:\PROGRAMAS LAS NIEVES\VISUAL STUDIO\proyectos\API\API\bin\Debug\net7.0\API.pdb
+F:\PROGRAMAS LAS NIEVES\VISUAL STUDIO\proyectos\API\API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+F:\PROGRAMAS LAS NIEVES\VISUAL STUDIO\proyectos\API\API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+F:\PROGRAMAS LAS NIEVES\VISUAL STUDIO\proyectos\API\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\PROGRAMAS LAS NIEVES\VISUAL STUDIO\proyectos\API\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\PROGRAMAS LAS NIEVES\VISUAL STUDIO\proyectos\API\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\PROGRAMAS LAS NIEVES\VISUAL STUDIO\proyectos\API\API\obj\Debug\net7.0\API.csproj.AssemblyReference.cache
+F:\PROGRAMAS LAS NIEVES\VISUAL STUDIO\proyectos\API\API\obj\Debug\net7.0\API.GeneratedMSBuildEditorConfig.editorconfig
+F:\PROGRAMAS LAS NIEVES\VISUAL STUDIO\proyectos\API\API\obj\Debug\net7.0\API.AssemblyInfoInputs.cache
+F:\PROGRAMAS LAS NIEVES\VISUAL STUDIO\proyectos\API\API\obj\Debug\net7.0\API.AssemblyInfo.cs
+F:\PROGRAMAS LAS NIEVES\VISUAL STUDIO\proyectos\API\API\obj\Debug\net7.0\API.csproj.CoreCompileInputs.cache
+F:\PROGRAMAS LAS NIEVES\VISUAL STUDIO\proyectos\API\API\obj\Debug\net7.0\API.MvcApplicationPartsAssemblyInfo.cs
+F:\PROGRAMAS LAS NIEVES\VISUAL STUDIO\proyectos\API\API\obj\Debug\net7.0\API.MvcApplicationPartsAssemblyInfo.cache
+F:\PROGRAMAS LAS NIEVES\VISUAL STUDIO\proyectos\API\API\obj\Debug\net7.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+F:\PROGRAMAS LAS NIEVES\VISUAL STUDIO\proyectos\API\API\obj\Debug\net7.0\staticwebassets\msbuild.build.API.props
+F:\PROGRAMAS LAS NIEVES\VISUAL STUDIO\proyectos\API\API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+F:\PROGRAMAS LAS NIEVES\VISUAL STUDIO\proyectos\API\API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.API.props
+F:\PROGRAMAS LAS NIEVES\VISUAL STUDIO\proyectos\API\API\obj\Debug\net7.0\staticwebassets.pack.json
+F:\PROGRAMAS LAS NIEVES\VISUAL STUDIO\proyectos\API\API\obj\Debug\net7.0\staticwebassets.build.json
+F:\PROGRAMAS LAS NIEVES\VISUAL STUDIO\proyectos\API\API\obj\Debug\net7.0\staticwebassets.development.json
+F:\PROGRAMAS LAS NIEVES\VISUAL STUDIO\proyectos\API\API\obj\Debug\net7.0\scopedcss\bundle\API.styles.css
+F:\PROGRAMAS LAS NIEVES\VISUAL STUDIO\proyectos\API\API\obj\Debug\net7.0\API.csproj.CopyComplete
+F:\PROGRAMAS LAS NIEVES\VISUAL STUDIO\proyectos\API\API\obj\Debug\net7.0\API.dll
+F:\PROGRAMAS LAS NIEVES\VISUAL STUDIO\proyectos\API\API\obj\Debug\net7.0\refint\API.dll
+F:\PROGRAMAS LAS NIEVES\VISUAL STUDIO\proyectos\API\API\obj\Debug\net7.0\API.pdb
+F:\PROGRAMAS LAS NIEVES\VISUAL STUDIO\proyectos\API\API\obj\Debug\net7.0\API.genruntimeconfig.cache
+F:\PROGRAMAS LAS NIEVES\VISUAL STUDIO\proyectos\API\API\obj\Debug\net7.0\ref\API.dll
+F:\PROGRAMAS LAS NIEVES\VISUAL STUDIO\proyectos\API\API\bin\Debug\net7.0\Negocio.dll
+F:\PROGRAMAS LAS NIEVES\VISUAL STUDIO\proyectos\API\API\bin\Debug\net7.0\Negocio.pdb
+F:\PROGRAMAS LAS NIEVES\VISUAL STUDIO\proyectos\Api\API\bin\Debug\net7.0\Negocio.dll.config
+F:\PROGRAMAS LAS NIEVES\VISUAL STUDIO\proyectos\Api\API\bin\Debug\net7.0\MySql.Data.dll
+F:\PROGRAMAS LAS NIEVES\VISUAL STUDIO\proyectos\Api\API\bin\Debug\net7.0\Google.Protobuf.dll
+F:\PROGRAMAS LAS NIEVES\VISUAL STUDIO\proyectos\Api\API\bin\Debug\net7.0\ZstdSharp.dll
+F:\PROGRAMAS LAS NIEVES\VISUAL STUDIO\proyectos\Api\API\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+F:\PROGRAMAS LAS NIEVES\VISUAL STUDIO\proyectos\Api\API\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+F:\PROGRAMAS LAS NIEVES\VISUAL STUDIO\proyectos\Api\API\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+F:\PROGRAMAS LAS NIEVES\VISUAL STUDIO\proyectos\Api\API\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+F:\PROGRAMAS LAS NIEVES\VISUAL STUDIO\proyectos\Api\API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+F:\PROGRAMAS LAS NIEVES\VISUAL STUDIO\proyectos\Api\API\bin\Debug\net7.0\System.Diagnostics.DiagnosticSource.dll
+F:\PROGRAMAS LAS NIEVES\VISUAL STUDIO\proyectos\Api\API\bin\Debug\net7.0\System.Diagnostics.EventLog.dll
+F:\PROGRAMAS LAS NIEVES\VISUAL STUDIO\proyectos\Api\API\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+F:\PROGRAMAS LAS NIEVES\VISUAL STUDIO\proyectos\Api\API\bin\Debug\net7.0\System.Security.Permissions.dll
+F:\PROGRAMAS LAS NIEVES\VISUAL STUDIO\proyectos\Api\API\bin\Debug\net7.0\System.Text.Encoding.CodePages.dll
+F:\PROGRAMAS LAS NIEVES\VISUAL STUDIO\proyectos\Api\API\bin\Debug\net7.0\System.Text.Encodings.Web.dll
+F:\PROGRAMAS LAS NIEVES\VISUAL STUDIO\proyectos\Api\API\bin\Debug\net7.0\System.Text.Json.dll
+F:\PROGRAMAS LAS NIEVES\VISUAL STUDIO\proyectos\Api\API\bin\Debug\net7.0\System.Windows.Extensions.dll
+F:\PROGRAMAS LAS NIEVES\VISUAL STUDIO\proyectos\Api\API\bin\Debug\net7.0\runtimes\win-x64\native\comerr64.dll
+F:\PROGRAMAS LAS NIEVES\VISUAL STUDIO\proyectos\Api\API\bin\Debug\net7.0\runtimes\win-x64\native\gssapi64.dll
+F:\PROGRAMAS LAS NIEVES\VISUAL STUDIO\proyectos\Api\API\bin\Debug\net7.0\runtimes\win-x64\native\k5sprt64.dll
+F:\PROGRAMAS LAS NIEVES\VISUAL STUDIO\proyectos\Api\API\bin\Debug\net7.0\runtimes\win-x64\native\krb5_64.dll
+F:\PROGRAMAS LAS NIEVES\VISUAL STUDIO\proyectos\Api\API\bin\Debug\net7.0\runtimes\win-x64\native\krbcc64.dll
+F:\PROGRAMAS LAS NIEVES\VISUAL STUDIO\proyectos\Api\API\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Diagnostics.EventLog.Messages.dll
+F:\PROGRAMAS LAS NIEVES\VISUAL STUDIO\proyectos\Api\API\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Diagnostics.EventLog.dll
+F:\PROGRAMAS LAS NIEVES\VISUAL STUDIO\proyectos\Api\API\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Text.Encoding.CodePages.dll
+F:\PROGRAMAS LAS NIEVES\VISUAL STUDIO\proyectos\Api\API\bin\Debug\net7.0\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
+F:\PROGRAMAS LAS NIEVES\VISUAL STUDIO\proyectos\Api\API\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+F:\PROGRAMAS LAS NIEVES\VISUAL STUDIO\proyectos\Api\API\bin\Debug\net7.0\Dapper.dll
+F:\PROGRAMAS LAS NIEVES\VISUAL STUDIO\proyectos\Api\API\bin\Debug\net7.0\Dapper.xml
+D:\Api\API\bin\Debug\net7.0\appsettings.Development.json
+D:\Api\API\bin\Debug\net7.0\appsettings.json
+D:\Api\API\bin\Debug\net7.0\API.exe
+D:\Api\API\bin\Debug\net7.0\API.deps.json
+D:\Api\API\bin\Debug\net7.0\API.runtimeconfig.json
+D:\Api\API\bin\Debug\net7.0\API.dll
+D:\Api\API\bin\Debug\net7.0\API.pdb
+D:\Api\API\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+D:\Api\API\bin\Debug\net7.0\Google.Protobuf.dll
+D:\Api\API\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+D:\Api\API\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+D:\Api\API\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+D:\Api\API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Api\API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Api\API\bin\Debug\net7.0\MySql.Data.dll
+D:\Api\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Api\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Api\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Api\API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Api\API\bin\Debug\net7.0\System.Diagnostics.DiagnosticSource.dll
+D:\Api\API\bin\Debug\net7.0\System.Diagnostics.EventLog.dll
+D:\Api\API\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Api\API\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Api\API\bin\Debug\net7.0\System.Text.Encoding.CodePages.dll
+D:\Api\API\bin\Debug\net7.0\System.Text.Encodings.Web.dll
+D:\Api\API\bin\Debug\net7.0\System.Text.Json.dll
+D:\Api\API\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Api\API\bin\Debug\net7.0\ZstdSharp.dll
+D:\Api\API\bin\Debug\net7.0\runtimes\win-x64\native\comerr64.dll
+D:\Api\API\bin\Debug\net7.0\runtimes\win-x64\native\gssapi64.dll
+D:\Api\API\bin\Debug\net7.0\runtimes\win-x64\native\k5sprt64.dll
+D:\Api\API\bin\Debug\net7.0\runtimes\win-x64\native\krb5_64.dll
+D:\Api\API\bin\Debug\net7.0\runtimes\win-x64\native\krbcc64.dll
+D:\Api\API\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Diagnostics.EventLog.Messages.dll
+D:\Api\API\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Diagnostics.EventLog.dll
+D:\Api\API\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Text.Encoding.CodePages.dll
+D:\Api\API\bin\Debug\net7.0\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
+D:\Api\API\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\Api\API\bin\Debug\net7.0\Negocio.dll
+D:\Api\API\bin\Debug\net7.0\Dapper.dll
+D:\Api\API\bin\Debug\net7.0\Negocio.pdb
+D:\Api\API\bin\Debug\net7.0\Negocio.dll.config
+D:\Api\API\bin\Debug\net7.0\Dapper.xml
+D:\Api\API\obj\Debug\net7.0\API.csproj.AssemblyReference.cache
+D:\Api\API\obj\Debug\net7.0\API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Api\API\obj\Debug\net7.0\API.AssemblyInfoInputs.cache
+D:\Api\API\obj\Debug\net7.0\API.AssemblyInfo.cs
+D:\Api\API\obj\Debug\net7.0\API.csproj.CoreCompileInputs.cache
+D:\Api\API\obj\Debug\net7.0\API.MvcApplicationPartsAssemblyInfo.cs
+D:\Api\API\obj\Debug\net7.0\API.MvcApplicationPartsAssemblyInfo.cache
+D:\Api\API\obj\Debug\net7.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Api\API\obj\Debug\net7.0\staticwebassets\msbuild.build.API.props
+D:\Api\API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+D:\Api\API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.API.props
+D:\Api\API\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Api\API\obj\Debug\net7.0\staticwebassets.build.json
+D:\Api\API\obj\Debug\net7.0\staticwebassets.development.json
+D:\Api\API\obj\Debug\net7.0\scopedcss\bundle\API.styles.css
+D:\Api\API\obj\Debug\net7.0\API.csproj.CopyComplete
+D:\Api\API\obj\Debug\net7.0\API.dll
+D:\Api\API\obj\Debug\net7.0\refint\API.dll
+D:\Api\API\obj\Debug\net7.0\API.pdb
+D:\Api\API\obj\Debug\net7.0\API.genruntimeconfig.cache
+D:\Api\API\obj\Debug\net7.0\ref\API.dll
+C:\Users\LN\Desktop\api\ApiProducto\API\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\LN\Desktop\api\ApiProducto\API\bin\Debug\net7.0\appsettings.json
+C:\Users\LN\Desktop\api\ApiProducto\API\bin\Debug\net7.0\API.exe
+C:\Users\LN\Desktop\api\ApiProducto\API\bin\Debug\net7.0\API.deps.json
+C:\Users\LN\Desktop\api\ApiProducto\API\bin\Debug\net7.0\API.runtimeconfig.json
+C:\Users\LN\Desktop\api\ApiProducto\API\bin\Debug\net7.0\API.dll
+C:\Users\LN\Desktop\api\ApiProducto\API\bin\Debug\net7.0\API.pdb
+C:\Users\LN\Desktop\api\ApiProducto\API\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+C:\Users\LN\Desktop\api\ApiProducto\API\bin\Debug\net7.0\Google.Protobuf.dll
+C:\Users\LN\Desktop\api\ApiProducto\API\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+C:\Users\LN\Desktop\api\ApiProducto\API\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\LN\Desktop\api\ApiProducto\API\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+C:\Users\LN\Desktop\api\ApiProducto\API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\LN\Desktop\api\ApiProducto\API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\LN\Desktop\api\ApiProducto\API\bin\Debug\net7.0\MySql.Data.dll
+C:\Users\LN\Desktop\api\ApiProducto\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\LN\Desktop\api\ApiProducto\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\LN\Desktop\api\ApiProducto\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\LN\Desktop\api\ApiProducto\API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\LN\Desktop\api\ApiProducto\API\bin\Debug\net7.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\LN\Desktop\api\ApiProducto\API\bin\Debug\net7.0\System.Diagnostics.EventLog.dll
+C:\Users\LN\Desktop\api\ApiProducto\API\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LN\Desktop\api\ApiProducto\API\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\LN\Desktop\api\ApiProducto\API\bin\Debug\net7.0\System.Text.Encoding.CodePages.dll
+C:\Users\LN\Desktop\api\ApiProducto\API\bin\Debug\net7.0\System.Text.Encodings.Web.dll
+C:\Users\LN\Desktop\api\ApiProducto\API\bin\Debug\net7.0\System.Text.Json.dll
+C:\Users\LN\Desktop\api\ApiProducto\API\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\LN\Desktop\api\ApiProducto\API\bin\Debug\net7.0\ZstdSharp.dll
+C:\Users\LN\Desktop\api\ApiProducto\API\bin\Debug\net7.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\LN\Desktop\api\ApiProducto\API\bin\Debug\net7.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\LN\Desktop\api\ApiProducto\API\bin\Debug\net7.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\LN\Desktop\api\ApiProducto\API\bin\Debug\net7.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\LN\Desktop\api\ApiProducto\API\bin\Debug\net7.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\LN\Desktop\api\ApiProducto\API\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\LN\Desktop\api\ApiProducto\API\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Diagnostics.EventLog.dll
+C:\Users\LN\Desktop\api\ApiProducto\API\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Text.Encoding.CodePages.dll
+C:\Users\LN\Desktop\api\ApiProducto\API\bin\Debug\net7.0\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
+C:\Users\LN\Desktop\api\ApiProducto\API\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\LN\Desktop\api\ApiProducto\API\bin\Debug\net7.0\Negocio.dll
+C:\Users\LN\Desktop\api\ApiProducto\API\bin\Debug\net7.0\Dapper.dll
+C:\Users\LN\Desktop\api\ApiProducto\API\bin\Debug\net7.0\Negocio.pdb
+C:\Users\LN\Desktop\api\ApiProducto\API\bin\Debug\net7.0\Negocio.dll.config
+C:\Users\LN\Desktop\api\ApiProducto\API\bin\Debug\net7.0\Dapper.xml
+C:\Users\LN\Desktop\api\ApiProducto\API\obj\Debug\net7.0\API.csproj.AssemblyReference.cache
+C:\Users\LN\Desktop\api\ApiProducto\API\obj\Debug\net7.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LN\Desktop\api\ApiProducto\API\obj\Debug\net7.0\API.AssemblyInfoInputs.cache
+C:\Users\LN\Desktop\api\ApiProducto\API\obj\Debug\net7.0\API.AssemblyInfo.cs
+C:\Users\LN\Desktop\api\ApiProducto\API\obj\Debug\net7.0\API.csproj.CoreCompileInputs.cache
+C:\Users\LN\Desktop\api\ApiProducto\API\obj\Debug\net7.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\LN\Desktop\api\ApiProducto\API\obj\Debug\net7.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LN\Desktop\api\ApiProducto\API\obj\Debug\net7.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\LN\Desktop\api\ApiProducto\API\obj\Debug\net7.0\staticwebassets\msbuild.build.API.props
+C:\Users\LN\Desktop\api\ApiProducto\API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+C:\Users\LN\Desktop\api\ApiProducto\API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.API.props
+C:\Users\LN\Desktop\api\ApiProducto\API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\LN\Desktop\api\ApiProducto\API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\LN\Desktop\api\ApiProducto\API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\LN\Desktop\api\ApiProducto\API\obj\Debug\net7.0\scopedcss\bundle\API.styles.css
+C:\Users\LN\Desktop\api\ApiProducto\API\obj\Debug\net7.0\API.csproj.CopyComplete
+C:\Users\LN\Desktop\api\ApiProducto\API\obj\Debug\net7.0\API.dll
+C:\Users\LN\Desktop\api\ApiProducto\API\obj\Debug\net7.0\refint\API.dll
+C:\Users\LN\Desktop\api\ApiProducto\API\obj\Debug\net7.0\API.pdb
+C:\Users\LN\Desktop\api\ApiProducto\API\obj\Debug\net7.0\API.genruntimeconfig.cache
+C:\Users\LN\Desktop\api\ApiProducto\API\obj\Debug\net7.0\ref\API.dll
